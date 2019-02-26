@@ -1,9 +1,14 @@
 ---
 layout: post
-title: No, I am not single.
+title: My Second Critique.
 ---
 
-It seems silly that so many of you are asking, but I am not, in fact, "single and ready to mingle". Here is a picture of my wife and me in San Diego!
+Hi everyone! I hope you enjoyed my first attempt at a blog post. This week's post will focus on our mutual interest's work entitled "The Old Guitarist", painted in 1904. 
 
-![_config.yml]({{ site.baseurl }}/images/old-couple.jpg)
+![_config.yml]({{ site.baseurl }}/images/old-guitar.jpg)
 
+To begin...
+Furthermore...
+Blah blah blah...
+
+Thanks for following along to my second post. I hope you enjoy reading what I have to say!
