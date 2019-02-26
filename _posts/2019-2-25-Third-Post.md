@@ -5,7 +5,7 @@ title: The Weeping Woman
 
 Welcome back to my humble blog! This week, I will be describing the unique history behind Picasso's painting "The Weeping Woman". Painted in 1937, this oil canvas shows a great example of Picasso's cubism works.
 
-![_config.yml]({{ site.baseurl }}/images/weeping.jpg)
+![_config.yml]({{ site.baseurl }}/images/weeping.jpg =100x20)
 
 To begin...
 Furthermore...
