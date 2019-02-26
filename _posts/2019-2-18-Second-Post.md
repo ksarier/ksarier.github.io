@@ -8,7 +8,9 @@ Hi everyone! I hope you enjoyed my first attempt at a blog post. This week's pos
 ![_config.yml]({{ site.baseurl }}/images/old-guitar.jpg)
 
 To begin...
+
 Furthermore...
+
 Blah blah blah...
 
 Thanks for following along to my second post. I hope you enjoy reading what I have to say!
